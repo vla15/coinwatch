@@ -1,0 +1,8 @@
+{
+  "name": "coin-watch",
+  "app_id": "63c802d1",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
